@@ -71,3 +71,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Игнорируем временные файлы Unity
+Library/
+Logs/
+Temp/
+obj/
+*.csproj
+*.sln
